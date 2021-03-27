@@ -17,7 +17,6 @@ Run the following code to test Aruco marker detection using Realsense:
 
 python3 Marker-basedTrackingAR.py 
 
-The head pose estimation is performed based on SolvePnP. More details about SolvePnP can be found here: https://learnopencv.com/head-pose-estimation-using-opencv-and-dlib/
 
 Details of the project in the Google docs.
 
