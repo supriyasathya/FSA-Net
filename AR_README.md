@@ -17,6 +17,7 @@ Run the following code to test Aruco marker detection using Realsense:
 
 python3 Marker-basedTrackingAR.py 
 
+# The Unity Project for building the app on MagicLeap is here: https://github.com/supriyasathya/AR-HeadTracking/tree/main/UnityProject-HeadTracking
 
 Details of the project in the Google docs.
 
